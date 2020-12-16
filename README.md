@@ -140,72 +140,70 @@ A Rubric for ML Production Readiness and Technical Debt Reduction</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(73).pdf" style="text-decoration:none;">Use of Relative Code Churn Measures to Predict System Defect Density</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(74).pdf" style="text-decoration:none;">Automatically Finding Patches Using Genetic Programming</a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(75).pdf" style="text-decoration:none;">Assisting Developers of Big Data Analytics Applications When Deploying on Hadoop Clouds</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(76).pdf" style="text-decoration:none;">Specifying Crash Safety for Storage Systems</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(76).pdf" style="text-decoration:none;">Machine Learning Architecture
+and Design Patterns</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(77).pdf" style="text-decoration:none;">Using Crash Hoare Logic for Certifying the FSCQ File System</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(77).pdf" style="text-decoration:none;">Interactions
+with Big Data Analytics</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(78).pdf" style="text-decoration:none;">An Approach to Improve the Performance
-of Insertion Sort Algorithm</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(79).pdf" style="text-decoration:none;">Integrity and access control in untrusted content distribution networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(78).pdf" style="text-decoration:none;">An Empirical Study of Common Challenges in Developing Deep Learning Applications</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(79).pdf" style="text-decoration:none;">Data Scientists in Software Teams: State of the Art and Challenges</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(80).pdf" style="text-decoration:none;">Waddle: A proven interpreter and test framework
-for a subset of the Go semantics</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(80).pdf" style="text-decoration:none;">Grounding Interactive Machine Learning Tool Design in How Non-Experts Actually Build Models</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(81).pdf" style="text-decoration:none;">The Grid Roofnet:
-a Rooftop Ad Hoc Wireless Network</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(82).pdf" style="text-decoration:none;">Hare: a file system for non-cache-coherent multicores</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(81).pdf" style="text-decoration:none;">An Empirical Study on Quality Issues of Production Big Data Platform</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(82).pdf" style="text-decoration:none;">MapReduce: Simplified Data Processing on Large Clusters</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(83).pdf" style="text-decoration:none;">Certifying a Crash-safe File System</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(84).pdf" style="text-decoration:none;">An Overview of Approaches Used In Focused Crawlers</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(83).pdf" style="text-decoration:none;">Hidden Technical Debt in Machine Learning Systems</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(84).pdf" style="text-decoration:none;">Semantically Equivalent Adversarial Rules for Debugging NLP Models</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(85).pdf" style="text-decoration:none;">Network Layer Support for Overlay Networks</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(86).pdf" style="text-decoration:none;">Device-Transparent Personal Storage</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(85).pdf" style="text-decoration:none;">Automating LargeScale
+Data Quality Verification</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(86).pdf" style="text-decoration:none;">The Data Linter: Lightweight, Automated Sanity Checking for ML Data Sets</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(87).pdf" style="text-decoration:none;">Bit-rate Selection in Wireless Networks</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(88).pdf" style="text-decoration:none;">Routing Tradeoffs in Dynamic Peer­to­peer Networks</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(89).pdf" style="text-decoration:none;">Jitk: A Trustworthy In-Kernel Interpreter Infrastructure</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(87).pdf" style="text-decoration:none;">Will You Accept an Imperfect AI? Exploring Designs for Adjusting End-user Expectations of AI Systems</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(88).pdf" style="text-decoration:none;">Real-World Integration of a Sepsis Deep Learning Technology Into Routine Clinical Care: Implementation Study</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(89).pdf" style="text-decoration:none;">A Large-scale Study about Quality and Reproducibility of Jupyter Notebooks</a></li>
   
   
-  <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(90).pdf" style="text-decoration:none;"> Applying Exokernel Principles to Conventional. Operating Systems</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(91).pdf" style="text-decoration:none;">User Authentication and Remote Execution
-Across Administrative Domains</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(90).pdf" style="text-decoration:none;"> Designing and Deploying Online Field Experiments</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(91).pdf" style="text-decoration:none;">Bug Isolation via Remote Program Sampling</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(92).pdf" style="text-decoration:none;">Karaoke: Distributed Private Messaging
-Immune to Passive Traffic Analysis</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(93).pdf" style="text-decoration:none;"> Improving Integer Security for Systems with KINT</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(94).pdf" style="text-decoration:none;">Ksplice: Automatic Rebootless Kernel Updates</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(92).pdf" style="text-decoration:none;">Rules of Machine Learning:
+Best Practices for ML Engineering</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(93).pdf" style="text-decoration:none;"> Scalable Lineage Capture for Debugging DISC Analytics</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(94).pdf" style="text-decoration:none;">Optimizing Interactive Development of Data-Intensive Applications</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(95).pdf" style="text-decoration:none;">Smartcrawler: A Two-stage Crawler For Efficient Search Result</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(95).pdf" style="text-decoration:none;">Software Engineering for Machine Learning: A Case Study</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(96).pdf" style="text-decoration:none;">Non-scalable locks are dangerous</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(96).pdf" style="text-decoration:none;">Debugging in the (Very) Large: Ten Years of Implementation and Experience</a></li> 
   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(97).pdf" style="text-decoration:none;">An Analysis of Linux Scalability to Many Cores</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(97).pdf" style="text-decoration:none;">From Ethics Washing to Ethics Bashing: A View on Tech Ethics from Within Moral Philosophy</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(98).pdf" style="text-decoration:none;">Software fault isolation with
-API integrity and multi-principal modules</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(98).pdf" style="text-decoration:none;">Preventing Failures Due to Dataset Shift: Learning Predictive Models That Transport</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(99).pdf" style="text-decoration:none;">M&M: A Passive Toolkit for Measuring, Correlating, and Tracking Path Characteristics</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(99).pdf" style="text-decoration:none;">An Empirical Study on Bugs inside TensorFlow</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(100).pdf" style="text-decoration:none;">Cache Craftiness for Fast Multicore Key-Value Storage</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(100).pdf" style="text-decoration:none;">TFX: A TensorFlow-Based Production-Scale Machine Learning Platform</a></li>  
   
- <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(101).pdf" style="text-decoration:none;">Practical and effective sandboxing for non-root users</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(101).pdf" style="text-decoration:none;">CRISP-DM Twenty Years Later:
+From Data Mining Processes to Data Science Trajectories</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(102).pdf" style="text-decoration:none;">Extracting and optimizing formally verified code for systems programming</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(102).pdf" style="text-decoration:none;">Testing Machine Learning based Systems: A Systematic Mapping</a></li> 
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(103).pdf" style="text-decoration:none;">Optimizing MapReduce for Multicore Architectures </a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(103).pdf" style="text-decoration:none;">Inspector Gadget: A Framework for Custom Monitoring and Debugging of Distributed Dataflows </a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(104).pdf" style="text-decoration:none;">MultiQ: Automated Detection of
-Multiple Bottleneck Capacities Along a Path</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(104).pdf" style="text-decoration:none;">Titian: Data Provenance Support in Spark</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(105).pdf" style="text-decoration:none;">Towards Multiverse Databases</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(105).pdf" style="text-decoration:none;">Understanding Development Process of Machine Learning Systems: Challenges and Solutions</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(106).pdf" style="text-decoration:none;">Optimizations for Performant Multiverse Databases</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(106).pdf" style="text-decoration:none;">Detecting Object Usage Anomalies</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(107).pdf" style="text-decoration:none;">Multiverse Databases for Secure Web Applications</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(107).pdf" style="text-decoration:none;">Cross-project Defect Prediction: A Large Scale Experiment on Data vs. Domain vs. Process</a></li> 
   </ul>
