@@ -15,7 +15,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(6).pdf" style="text-decoration:none;">A Berkeley View of Systems Challenges for AI</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(7).pdf" style="text-decoration:none;">Training Set Debugging Using Trusted Items</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(8).pdf" style="text-decoration:none;"> Testing Scientic Software: A Systematic Literature Review </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(8).pdf" style="text-decoration:none;"> Testing Scientific Software: A Systematic Literature Review </a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(9).pdf" style="text-decoration:none;">POTs: Protective Optimization Technologies</a></li>
   
    
@@ -26,7 +26,7 @@
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(14).pdf" style="text-decoration:none;">Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(15).pdf" style="text-decoration:none;">A Survey of Safety and Trustworthiness of Deep Neural Networks: Verication, Testing, Adversarial Attack and Defence, and Interpretability</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(15).pdf" style="text-decoration:none;">A Survey of Safety and Trustworthiness of Deep Neural Networks: Verification, Testing, Adversarial Attack and Defence, and Interpretability</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/so(16).pdf" style="text-decoration:none;">Certified Adversarial Robustness via Randomized Smoothing</a></li>
 
